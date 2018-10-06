@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Movies_and_shows"></activity>
+        <activity android:name=".Movies_and_shows" />
+        <activity android:name=".Quiz_main_activity" />
+        <activity android:name=".Activity_quiz"></activity>
     </application>
 
 </manifest>
