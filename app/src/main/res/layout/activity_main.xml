@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:background="@drawable/rounded_button"
         android:padding="20dp"
-        android:text="LEADERboard"
+        android:text="LEADERBoard"
         tools:layout_editor_absoluteX="120dp"
         tools:layout_editor_absoluteY="300dp" />
 </android.support.constraint.ConstraintLayout>
